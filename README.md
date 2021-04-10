@@ -1,4 +1,6 @@
-# vue_picture_base64
+Vue实现图片转换base64位编码
+## 1.上传文件转换
+## 2.拖拽文件上传
 
 ## Project setup
 ```
